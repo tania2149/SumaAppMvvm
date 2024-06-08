@@ -1,0 +1,12 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="SumaAppMvvm.Views.SumaPage">
+    <StackLayout Padding="20">
+        <Entry x:Name="Valor1Entry" Placeholder="Ingrese el primer valor" />
+        <Entry x:Name="Valor2Entry" Placeholder="Ingrese el segundo valor" />
+        <Button Text="Sumar" Clicked="SumarClicked" />
+        <Label Text="Resultado: " x:Name="ResultadoLabel" />
+        <Button Text="Limpiar" Clicked="LimpiarClicked" />
+    </StackLayout>
+</ContentPage> 
+    

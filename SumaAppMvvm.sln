@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaAppMvvm", "SumaAppMvvm\SumaAppMvvm.csproj", "{0CE12A7B-ED9A-4BD2-8575-22712875BF9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{71E4D9A5-D785-463B-B0BC-96BFD2CB2832}"
+	ProjectSection(SolutionItems) = preProject
+		SumaPage.xaml = SumaPage.xaml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{898F986A-A23C-4661-B73D-8EFD58D0A7B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE12A7B-ED9A-4BD2-8575-22712875BF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE12A7B-ED9A-4BD2-8575-22712875BF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE12A7B-ED9A-4BD2-8575-22712875BF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE12A7B-ED9A-4BD2-8575-22712875BF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE8C3BC9-2863-47B3-B4DF-4D9DD68E3DAC}
+	EndGlobalSection
+EndGlobal
